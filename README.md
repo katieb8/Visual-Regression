@@ -4,3 +4,6 @@ practice with visual regression implementation with cypress image snapshot plugi
 using these tutorials for cypress:
 https://www.npmjs.com/package/cypress-visual-regression
 https://www.wearecogworks.com/blog/the-quick-guide-to-visual-regression-testing-with-cypress/
+
+cypress percy doc:
+https://docs.percy.io/docs/cypress
